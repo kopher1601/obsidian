@@ -1,0 +1,1 @@
+`@EnableConfigurationProperties(타겟클래스::class)` 애너테이션은 [[@ConfigurationProperties]] 이 붙어있는 클래스를 스프링 컨테이너에 등록한다. 한 가지 단점은 `@ConfigurationProperties` 애너테이션이 붙어 있는 클래스를 자동 탐색해서 등록해주는 것이 아니라 직접 명시해줘야 한다는 점이다.

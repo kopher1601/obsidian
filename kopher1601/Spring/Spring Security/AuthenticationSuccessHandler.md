@@ -1,0 +1,1 @@
+Form Login 으로 인증이 성공했을 때의 논리를 커스텀 구현하려면 `AuthenticationSuccessHandler` 구현하면 된다.

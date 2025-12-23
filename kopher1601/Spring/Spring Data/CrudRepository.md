@@ -1,0 +1,1 @@
+`CrudRepository` 는 [[Repository]] 인터페이스를 상속받은 하위 인터페이스이며 CRUD 연산을 포함하고 있다.

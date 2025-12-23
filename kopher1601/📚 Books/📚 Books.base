@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("book")
+    order:
+      - file.name
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.name: 448
+  - type: table
+    name: Books
+    filters:
+      and:
+        - file.path == "📚 Books.base"

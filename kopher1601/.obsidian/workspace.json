@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e55383a5c684bd64",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6cd964c1232a75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28acb92e44545cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💼 Career/Welmo/Welmo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welmo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08d3fcb5ded17cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d4577869db5063a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32913820829f7c6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d97ceb913a878f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Welmo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a1f1c08063de2fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201
+  },
+  "right": {
+    "id": "11883264ee65757f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed58cb135a7c7c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75a02436177c45c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "80ba9316ded74e11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0ed1245c37e1aca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa9f819374eca393",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "28acb92e44545cfa",
+  "lastOpenFiles": [
+    "DB/서브쿼리.md",
+    "Go.md",
+    "DB/인덱스.md",
+    "Clean Architecture.md",
+    "의존성 역전 원칙.md",
+    "Go",
+    "💼 Career/Welmo/Welmo.md",
+    "📅 Planner/2025年/2025年.md",
+    "개발 원칙.md",
+    "Spring/Spring Security/Spring Security.md",
+    "Spring/Spring Security/SecurityContextHolder.md",
+    "Spring/Spring Security/SecuirtyFilterChain.md",
+    "Spring/Spring Security/Role.md",
+    "Spring/Spring Security/OncePerRequestFilter.md",
+    "Spring/Spring Security/PasswordEncoder.md",
+    "Spring/Spring Security/OAuth2LoginAuthenticationFilter.md",
+    "Spring/Spring Security/CustomFilter.md",
+    "Spring/Spring Security/CsrfTokenRepository.md",
+    "Spring/Spring Security/CsrfFilter.md",
+    "Spring/Spring Security/ClientRegistration.md",
+    "Spring/Spring Security/Authorization.md",
+    "Spring/Spring Security/AuthenticationSuccessHandler.md",
+    "Spring/Spring Security/AuthenticationProvider.md",
+    "Spring/Spring Security/AuthenticationManager.md",
+    "Spring/Spring Security/AuthenticationFailureHandler.md",
+    "Spring/Spring Security/AuthenticationEntryPoint.md",
+    "Spring/Spring Security/UserDetailsService.md",
+    "Spring/Spring Batch",
+    "images/Pasted image 20251123184051.png",
+    "images/Pasted image 20251123183611.png",
+    "images/Pasted image 20251123170750.png",
+    "images/Pasted image 20251123170445.png",
+    "images",
+    "디자인 패턴/images/Pasted image 20251123011244.png",
+    "디자인 패턴/images/Pasted image 20251123011515.png",
+    "디자인 패턴/images/Pasted image 20251123011353.png",
+    "디자인 패턴/images",
+    "디자인 패턴",
+    "Spring/Spring Data/images/IMG_1024 2.jpg",
+    "Spring/Spring Data/images/IMG_1024.jpg",
+    "Spring/Spring Data/images",
+    "Exposed",
+    "📚 Books/주니어 백엔드 개발자가 반드시 알아야 할 실무 지식/images/Screenshot 2025-11-17 at 0.13.17.png",
+    "Spring/Spring Data",
+    "💼 Career/Welmo",
+    "💼 Career"
+  ]
+}
